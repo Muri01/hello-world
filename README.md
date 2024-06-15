@@ -2,7 +2,7 @@
 
 Projeto desenvolvido seguindo as aulas do curso **Desenvolvimento web: ferramentas e orientações para professores** da Alura Start.
 
-![print da tela do projeto.](/images/print.png)
+![print da tela do projeto.](/image/print.png)
 
 
 
